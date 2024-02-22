@@ -43,3 +43,19 @@
 body{
   background-color:rgb(181, 204, 239);
 }
+
+.newList{
+  align-items: center;
+  background-color: grey;
+  font-size: x-large;
+  font-weight: bolder;
+  color:yellow;
+  box-shadow: 0 14px 16px  black;
+}
+.ulList {
+ 
+ color: aliceblue;
+}
+h3{
+  color: blue;
+}
