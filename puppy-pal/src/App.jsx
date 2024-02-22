@@ -3,22 +3,21 @@ import { puppyList } from "./data.js";
 import { useState } from "react";
 import "./App.css";
 
+
 function App() {
   console.log(puppyList);
   const [puppies, setPuppies] = useState(puppyList);
   const [featPupId, setFeatPupId] = useState(null);
 
-  // function handleClick() {
-  //   setPuppies()
-  // }
+  
   const featuredPup = puppies.find((pup) => pup.id === featPupId);
-  console.log(featuredPup);
+  // console.log(featuredPup);
+
   return (
     <>
       <div>
         <h1 className="header"> 🐶 Puppy List 🐶</h1>
       </div>
-
       <div className="puppyList">
         {puppies.map((puppy) => {
           return (
