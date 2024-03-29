@@ -1,0 +1,250 @@
+[
+    {
+        "empId": 1,
+        "empName": "John",
+        "salary": 40000,
+        "department": "ETA",
+        "machineId": 1001,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.8
+            },
+            {
+                "role": "Technology Analyst",
+                "roleExperience": 1.3
+            }
+        ]
+    },
+    {
+        "empId": 2,
+        "empName": "Maria",
+        "salary": 45000,
+        "department": "IVS",
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.6
+            },
+            {
+                "role": "Technology Analyst",
+                "roleExperience": 1.1
+            }
+        ]
+    },
+    {
+        "empId": 3,
+        "empName": "jack",
+        "salary": 43000,
+        "department": "ECSADM",
+        "machineId": 1002,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.3
+            },
+            {
+                "role": "Technology Analyst",
+                "roleExperience": 0.6
+            }
+        ]
+    },
+    {
+        "empId": 4,
+        "empName": "Emily",
+        "salary": 31000,
+        "department": "DX",
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 0.3
+            }
+        ]
+    },
+    {
+        "empId": 5,
+        "empName": "Steve",
+        "salary": 51000,
+        "department": "SGTSES",
+        "machineId": 1003,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.3
+            },
+            {
+                "role": "Technology Analyst",
+                "roleExperience": 2.6
+            },
+            {
+                "role": "Technology Lead",
+                "roleExperience": 0.4
+            }
+        ]
+    },
+    {
+        "empId": 6,
+        "empName": "Stephen",
+        "salary": 25000,
+        "department": "DXEMP",
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.0
+            }
+        ]
+    },
+    {
+        "empId": 7,
+        "empName": "Kieron",
+        "salary": 35000,
+        "department": "IND",
+        "machineId": 1004,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 0.8
+            }
+        ]
+    },
+    {
+        "empId": 8,
+        "empName": "Kyle",
+        "salary": 29000,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.3
+            }
+        ]
+    },
+    {
+        "empId": 9,
+        "empName": "Charles",
+        "salary": 49000,
+        "machineId": 1005,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.6
+            },
+            {
+                "role": "Technology Analyst",
+                "roleExperience": 1.3
+            }
+        ]
+    },
+    {
+        "empId": 10,
+        "empName": "Robin",
+        "salary": 37000,
+        "department": "DXEMP",
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.2
+            }
+        ]
+    },
+    {
+        "empId": 11,
+        "empName": "Tom",
+        "salary": 54000,
+        "department": "IND",
+        "machineId": 1006,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.6
+            },
+            {
+                "role": "Technology Analyst",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Technology Lead",
+                "roleExperience": 1.5
+            }
+        ]
+    },
+    {
+        "empId": 12,
+        "empName": "Mark",
+        "salary": 28000,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.2
+            }
+        ]
+    },
+    {
+        "empId": 13,
+        "empName": "Mike",
+        "salary": 39000,
+        "machineId": 1007,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 1.7
+            },
+            {
+                "role": "Senior Systems Engineer",
+                "roleExperience": 1.8
+            },
+            {
+                "role": "Technology Analyst",
+                "roleExperience": 0.3
+            }
+        ]
+    },
+    {
+        "empId": 14,
+        "empName": "Chris",
+        "salary": 23000,
+        "department": "ETA",
+        "machineId": 1008,
+        "experience": [
+            {
+                "role": "Systems Engineer",
+                "roleExperience": 0.5
+            }
+        ]
+    }
+]

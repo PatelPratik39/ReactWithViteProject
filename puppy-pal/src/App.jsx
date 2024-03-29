@@ -13,6 +13,8 @@ function App() {
   const featuredPup = puppies.find((pup) => pup.id === featPupId);
   // console.log(featuredPup);
 
+
+ 
   return (
     <>
       <div>
@@ -48,6 +50,7 @@ function App() {
           </div>
         )}
       </div>
+  
     </>
   );
 }
